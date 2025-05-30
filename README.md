@@ -16,37 +16,22 @@ Este projeto é uma calculadora funcional desenvolvida com **React**, utilizando
 - Layout responsivo para diferentes tamanhos de tela
 - Interface com botões clicáveis e display interativo
 
-### 📁 Estrutura do Projeto
-
-calculadora-react/
-├── public/
-├── src/
-│ ├── components/
-│ │ └── Button.js
-│ ├── App.js
-│ ├── index.js
-│ └── App.css
-├── package.json
-└── README.md
-
-
-### 📷 Captura de Tela
-
-![screenshot]([https://user-images.githubusercontent.com/00000000/placeholder.png](https://discord.com/channels/@me/937507852522774538/1378009909437927455))
-
 ### ▶️ Como Executar o Projeto
 
 1. Clone o repositório:
-```bash
+```
 git clone https://github.com/felipedegodoy16/calculadora-react.git
+```
 
 2. Instale as dependências:
-```bash
+```
 npm install
+```
 
 3. Execute o projeto:
-```bash
+```
 npm start
+```
 
 O projeto estará disponível em http://localhost:3000
 
