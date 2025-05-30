@@ -35,11 +35,13 @@ npm start
 
 O projeto estará disponível em http://localhost:3000
 
-📚 Aprendizados
+## 📚 Aprendizados
 Este projeto me ajudou a consolidar conhecimentos em:
 
 - Manipulação de estado com useState
 - Lógica e tratamento de eventos em interfaces
 
-📄 Licença
-Este projeto está licenciado sob a MIT License.
+## 📄 Licença
+Este projeto está sob a licença MIT. Sinta-se à vontade para usar como base ou inspiração!
+
+👋 Obrigado por visitar meu repositório! Feedbacks são sempre bem-vindos.
